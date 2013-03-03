@@ -1,0 +1,3 @@
+Ny first Android Game, not much to put in this readme yet
+
+More to come later....
